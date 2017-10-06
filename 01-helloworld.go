@@ -2,7 +2,7 @@ package main     // package defined.every project just only have one main packag
 
 import "fmt"  //import statement.fmt is format output
 
-func main()    // it is the entrance of the main function program
-{
-     fmt.Prinln("こんにちは 世界") // output こんにちは世界
+func main(){    // it is the entrance of the main function program
+     fmt.Println("こんにちは 世界") 
+    // output こんにちは世界
 }
