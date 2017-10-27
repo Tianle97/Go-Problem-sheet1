@@ -1,4 +1,10 @@
 # solutions-go
+
+## **1st step: git clone https://github.com/Tianle97/Go-Web-Application.git**
+## **2nd step: git add .**
+## **3rd step: git commit -m'Problem-sheet2'**
+## **4th step: git push**
+
 go fundamentals -problem-sheet
 My solution to the Go problems, Each program can be built into an executable by using the command "go build FILE_NAME" See the problems below:
 
